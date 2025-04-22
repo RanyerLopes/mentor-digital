@@ -46,7 +46,7 @@ No fim, você ainda vai criar seu **mini portfólio publicado no GitHub Pages**!
 ## 📦 Recursos Recomendados
 
 - Documentações: [MDN Web Docs](https://developer.mozilla.org/pt-BR/), [W3Schools](https://www.w3schools.com/)
-- Vídeos: [Curso em Vídeo (Guanabara)](https://www.youtube.com/@CursoemVideo), [freeCodeCamp](https://www.youtube.com/@freecodecamp)
+- Vídeos: [Curso em Vídeo (Guanabara)](https://www.youtube.com/@CursoemVideo), [freeCodeCamp](https://www.youtube.com/@freecodecamp), [Comunidade House.JS](https://www.youtube.com/@comunidadehousejs)
 - Plataformas práticas: [CodePen](https://codepen.io/), [Replit](https://replit.com/), [JSFiddle](https://jsfiddle.net/)
 - Organização de estudos: [Notion](https://www.notion.so/), [Trello](https://trello.com/)
 - IA para estudos: ChatGPT, Gemini, Claude, Copilot
