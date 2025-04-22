@@ -15,7 +15,7 @@ Com uma abordagem **educativa, prática, emocional e progressiva**.
 
 ## 💡 Como Usar
 
-1. Abra o arquivo [`prompt-mentor-digital.txt`](prompt/prompt-mentor-digital.txt).
+1. Abra o arquivo [`prompt-mentor-digital.txt`](prompt-mentor-digital.txt).
 2. Copie todo o conteúdo.
 3. Acesse uma IA (como o ChatGPT, Gemini ou Claude).
 4. Cole o prompt e envie.
