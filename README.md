@@ -20,7 +20,8 @@ Tudo com uma abordagem educativa, prática, emocional e progressiva.
 
 ### 💡 Como Usar
 
-1. Abra o arquivo prompt-mentor-digital.txt (ou prompt-mentor-tailwind.txt para o módulo extra).
+1. Abra o arquivo [**`prompt-mentor-digital.txt`**]([https://github.com/seu-usuario/seu-repositorio/blob/main/prompt-mentor-digital.txt](https://github.com/RanyerLopes/mentor-digital/blob/main/prompt-mentor-digital.txt)) (ou [**`prompt-mentor-tailwind.txt`**]([https://github.com/seu-usuario/seu-repositorio/blob/main/prompt-mentor-digital.txt](https://github.com/RanyerLopes/mentor-digital/blob/main/prompt-mentor-tailwind.txt))
+ para o módulo extra).
 2. Copie todo o conteúdo.  
 3. Acesse uma IA (como o ChatGPT, Gemini ou Claude).  
 4. Cole o prompt e envie.  
