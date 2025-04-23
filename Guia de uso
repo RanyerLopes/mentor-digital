@@ -1,29 +1,64 @@
 # 📘 Guia de Uso do Mentor Digital
 
-## Etapa 1 – Acesse a IA
+Seja para aprender **programação front-end** ou **Tailwind CSS**, o Mentor Digital está aqui pra te guiar com leveza, prática e motivação. Bora?
 
-Abra o ChatGPT (ou Gemini, Claude, etc).
+---
 
-## Etapa 2 – Cole o Prompt
+## ✨ Etapa 1 – Acesse uma IA
 
-Copie e cole o conteúdo do arquivo `prompt-mentor-digital.txt`.
+Abra uma ferramenta como:
 
-## Etapa 3 – Interaja
+- [ChatGPT](https://chat.openai.com)
+- [Gemini](https://gemini.google.com)
+- [Claude](https://claude.ai)
 
-A IA vai perguntar sobre seu nível e ritmo de estudo. Responda honestamente. A partir disso, ela começa a te orientar passo a passo.
+---
 
-## Etapa 4 – Aproveite a Jornada
+## 🧠 Etapa 2 – Escolha seu Prompt
 
-A cada aula, você verá:
+Você tem duas opções incríveis:
 
-- Explicações claras
-- Revisões
-- Mini quizzes
-- Desafios práticos
-- Motivação constante
+### 1. **Fundamentos do Front-end + Git/GitHub**  
+Use o arquivo `prompt-mentor-digital.txt`.
 
-Você pode revisar, repetir ou avançar usando comandos como “Arrocha”.
+### 2. **Tailwind CSS via CDN**  
+Use o arquivo `prompt-mentor-tailwind.txt`.
 
-## Dica de Ouro 💡
+Escolha por onde quer começar!
 
-Salve esse prompt no seu Notion, Drive ou até como favorito no navegador. Ele será seu mentor 24h por dia!
+---
+
+## 💬 Etapa 3 – Cole o Prompt e Interaja
+
+- Copie todo o conteúdo do arquivo escolhido.
+- Cole na IA e envie.
+- Responda às perguntas iniciais sobre seu nível ou ritmo.
+
+O mentor vai te guiar como se fosse um professor particular: com didática, carinho e empolgação!
+
+---
+
+## 🚀 Etapa 4 – Curta a Jornada
+
+Em cada aula, você terá:
+
+✅ Explicações passo a passo  
+✅ Revisões rápidas  
+✅ Mini quizzes interativos  
+✅ Desafios práticos reais  
+✅ Estímulo, motivação e apoio contínuo
+
+Você avança com o comando mágico: **“Arrocha”** 😄
+
+---
+
+## 💡 Dica de Ouro
+
+Salve seus prompts preferidos no **Notion**, **Google Drive**, ou **como favorito no navegador**.  
+Eles serão seu guia de estudos disponível 24h por dia, todos os dias.
+
+---
+
+## 🤝 Precisa de ajuda?
+
+Pode chamar a IA a qualquer momento ou buscar apoio nos links recomendados nos próprios prompts. E claro, você pode evoluir ainda mais criando seus próprios projetos enquanto estuda.
