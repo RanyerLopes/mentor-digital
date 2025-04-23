@@ -87,3 +87,7 @@ Esse projeto pode ser utilizado por professores, mentores e instituições que q
 
 Este projeto pode ser usado livremente para fins educacionais.
 
+📝 Dê seu Feedback!
+Gostaríamos muito de saber como você está se saindo com o Mentor Digital. Compartilhe sua experiência preenchendo nosso formulário de feedback!
+
+👉 [Clique aqui para deixar seu feedback](https://forms.gle/9Undmo1M5DiKjCDv6)
