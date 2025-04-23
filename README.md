@@ -1,60 +1,89 @@
-# 🤖 Mentor Digital – Guia de Estudos com IA para Programação Front-end
+## 🤖 Mentor Digital – Guia de Estudos com IA para Programação Front-end
 
-Este projeto foi criado para ajudar iniciantes a aprender **programação front-end e Git/GitHub** de forma prática, divertida e acolhedora. Com um prompt preparado especialmente para uso com ferramentas como o **ChatGPT**, você terá um **mentor digital contínuo** que vai te acompanhar desde o zero até o domínio dos fundamentos.
+Este projeto foi criado para ajudar iniciantes a aprender programação front-end e Git/GitHub de forma prática, divertida e acolhedora. Com um prompt preparado especialmente para uso com ferramentas como o ChatGPT, Gemini, Claude e Copilot você terá um mentor digital contínuo que vai te acompanhar desde o zero até o domínio dos fundamentos.
 
-## 🎯 Objetivo
+---
+
+### 🎯 Objetivo
 
 Guiar qualquer pessoa — mesmo sem experiência prévia — pelos fundamentos de:
 
-- Git e GitHub
-- HTML
-- CSS (incluindo pseudoclasses)
-- JavaScript
+- Git e GitHub  
+- HTML  
+- CSS (incluindo pseudoclasses)  
+- JavaScript  
+- E agora: **Tailwind CSS via CDN**  
 
-Com uma abordagem **educativa, prática, emocional e progressiva**.
+Tudo com uma abordagem educativa, prática, emocional e progressiva.
 
-## 💡 Como Usar
+---
 
-1. Abra o arquivo [`prompt-mentor-digital.txt`](prompt-mentor-digital.txt).
-2. Copie todo o conteúdo.
-3. Acesse uma IA (como o ChatGPT, Gemini ou Claude).
-4. Cole o prompt e envie.
-5. Responda à IA quando ela perguntar seu ritmo de estudo.
-6. A jornada começa!
+### 💡 Como Usar
 
-> O mentor digital vai te ensinar, corrigir com carinho e te motivar em cada passo. É como ter um professor particular, só que 24h por dia!
+1. Abra o arquivo `prompt-mentor-digital.txt` (ou `prompt-tailwind.txt` para o módulo extra).  
+2. Copie todo o conteúdo.  
+3. Acesse uma IA (como o ChatGPT, Gemini ou Claude).  
+4. Cole o prompt e envie.  
+5. Responda à IA quando ela perguntar seu ritmo de estudo.  
+6. A jornada começa!  
 
-## 🧱 Estrutura do Curso
+O mentor digital vai te ensinar, corrigir com carinho e te motivar em cada passo. É como ter um professor particular, só que 24h por dia!
 
-O conteúdo é dividido em 4 módulos:
+---
 
-1. **Git e GitHub**
-2. **HTML**
-3. **CSS**
+### 🧱️ Estrutura do Curso
+
+O conteúdo é dividido em 4 módulos principais:
+
+1. **Git e GitHub**  
+2. **HTML**  
+3. **CSS**  
 4. **JavaScript**
 
 Cada módulo possui:
 
-- Aulas passo a passo
-- Revisões
-- Mini quizzes
-- Desafios práticos
+- Aulas passo a passo  
+- Revisões  
+- Mini quizzes  
+- Desafios práticos  
 - Projeto final
 
-No fim, você ainda vai criar seu **mini portfólio publicado no GitHub Pages**!
+Ao final, você criará seu **mini portfólio publicado no GitHub Pages**!
 
-## 📦 Recursos Recomendados
+---
 
-- Documentações: [MDN Web Docs](https://developer.mozilla.org/pt-BR/), [W3Schools](https://www.w3schools.com/)
-- Vídeos: [Curso em Vídeo (Guanabara)](https://www.youtube.com/@CursoemVideo), [freeCodeCamp](https://www.youtube.com/@freecodecamp), [Comunidade House.JS](https://www.youtube.com/@comunidadehousejs)
-- Plataformas práticas: [CodePen](https://codepen.io/), [Replit](https://replit.com/), [JSFiddle](https://jsfiddle.net/)
-- Organização de estudos: [Notion](https://www.notion.so/), [Trello](https://trello.com/)
-- IA para estudos: ChatGPT, Gemini, Claude, Copilot
+### 🎨 Módulo Extra: Tailwind CSS via CDN
 
-## 🧑‍🏫 Para professores
+> *Para quem já passou pelos fundamentos de HTML e CSS, esse módulo ensina a dominar Tailwind de forma prática e envolvente, direto no navegador!*
 
-Esse prompt pode ser utilizado por professores, mentores e instituições que queiram criar trilhas assistidas com IA, promovendo autonomia e engajamento entre alunos.
+**Dividido em 4 módulos:**
 
-## 📄 Licença
+1. **Introdução ao Tailwind e Ambiente**  
+2. **Fundamentos de Estilização com Classes Utilitárias**  
+3. **Layout e Responsividade**  
+4. **Componentes na Prática (navbar, footer, dark mode etc.)**
+
+No final, você criará uma **landing page responsiva e estilosa com Tailwind via CDN**, cheia de criatividade!
+
+---
+
+### 📦 Recursos Recomendados
+
+- **Documentações**: MDN Web Docs, W3Schools, Tailwind CSS  
+- **Vídeos**: Curso em Vídeo (Guanabara), Rocketseat, Dev em Dobro  
+- **Plataformas práticas**: CodePen, Replit, Tailwind Play  
+- **Organização de estudos**: Notion, Trello  
+- **IA para estudos**: ChatGPT, Gemini, Claude, Copilot  
+
+---
+
+### 🧑‍🏫 Para professores
+
+Esse projeto pode ser utilizado por professores, mentores e instituições que queiram criar trilhas assistidas com IA, promovendo **autonomia, prática e engajamento** entre alunos.
+
+---
+
+### 📄 Licença
 
 Este projeto pode ser usado livremente para fins educacionais.
+
