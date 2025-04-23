@@ -20,7 +20,7 @@ Tudo com uma abordagem educativa, prática, emocional e progressiva.
 
 ### 💡 Como Usar
 
-1. Abra o arquivo [`prompt-mentor-digital.txt`](prompt/prompt-mentor-digital.txt) (ou [`prompt-mentor-tailwind.txt`](prompt/prompt-mentor-tailwind.txt) para o módulo extra).  
+1. Abra o arquivo prompt-mentor-digital.txt (ou prompt-mentor-tailwind.txt para o módulo extra).
 2. Copie todo o conteúdo.  
 3. Acesse uma IA (como o ChatGPT, Gemini ou Claude).  
 4. Cole o prompt e envie.  
