@@ -71,7 +71,7 @@ No final, você criará uma **landing page responsiva e estilosa com Tailwind vi
 ### 📦 Recursos Recomendados
 
 - **Documentações**: MDN Web Docs, W3Schools, Tailwind CSS  
-- **Vídeos**: Curso em Vídeo (Guanabara), Rocketseat, Dev em Dobro  
+- **Vídeos**: Curso em Vídeo (Guanabara), Rocketseat, Dev em Dobro, [`Comunidade House.Js`](https://www.youtube.com/@comunidadehousejs)  
 - **Plataformas práticas**: CodePen, Replit, Tailwind Play  
 - **Organização de estudos**: Notion, Trello  
 - **IA para estudos**: ChatGPT, Gemini, Claude, Copilot  
