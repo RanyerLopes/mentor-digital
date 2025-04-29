@@ -201,4 +201,4 @@ Uso livre para fins educacionais.
 
 📣 Dê seu Feedback!
 Queremos saber como está sua jornada com o Mentor Digital!
-[👉 Clique aqui para deixar seu feedback]([https://endereco-do-link.com](https://docs.google.com/forms/d/e/1FAIpQLScr_am4bsXK_IjLsP6h1rnpAIOzGoiFwkoDHpY4tZJGo3ZJcg/viewform))
+([👉 Clique aqui para deixar seu feedback](https://docs.google.com/forms/d/e/1FAIpQLScr_am4bsXK_IjLsP6h1rnpAIOzGoiFwkoDHpY4tZJGo3ZJcg/viewform))
