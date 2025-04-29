@@ -1,6 +1,6 @@
-# 📘 Guia de Uso do Mentor Digital
+### 📘 **Guia de Uso do Mentor Digital 
 
-Seja para aprender **programação front-end** ou **Tailwind CSS**, o Mentor Digital está aqui pra te guiar com leveza, prática e motivação. Bora?
+Seja para aprender **programação front-end** ou **Tailwind CSS**, o **Mentor Digital** está aqui pra te guiar com leveza, prática e motivação. Bora nessa jornada rumo à autonomia dev?
 
 ---
 
@@ -16,15 +16,24 @@ Abra uma ferramenta como:
 
 ## 🧠 Etapa 2 – Escolha seu Prompt
 
-Você tem duas opções incríveis:
+Você tem duas opções incríveis de aprendizado guiado:
 
 ### 1. **Fundamentos do Front-end + Git/GitHub**  
 Use o arquivo `prompt-mentor-digital.txt`.
 
+Esse prompt ativa um **mentor digital especializado**, que vai te acompanhar desde o zero absoluto até dominar:
+
+- Git e GitHub  
+- HTML  
+- CSS (incluindo pseudoclasses e pseudo-elementos)  
+- JavaScript  
+
+Ele usa uma abordagem **empática, divertida, prática e personalizada**, adaptando o ritmo ao seu estilo e celebrando suas conquistas.
+
 ### 2. **Tailwind CSS via CDN**  
 Use o arquivo `prompt-mentor-tailwind.txt`.
 
-Escolha por onde quer começar!
+Esse mentor te guia desde o básico até criar páginas responsivas e estilosas com Tailwind CSS, mesmo se for sua primeira vez com programação ou com frameworks.
 
 ---
 
@@ -32,9 +41,14 @@ Escolha por onde quer começar!
 
 - Copie todo o conteúdo do arquivo escolhido.
 - Cole na IA e envie.
-- Responda às perguntas iniciais sobre seu nível ou ritmo.
+- Responda às perguntas iniciais sobre seu **nível**, **ritmo** e **objetivos**.
 
-O mentor vai te guiar como se fosse um professor particular: com didática, carinho e empolgação!
+🎓 O Mentor vai assumir o papel de professor particular:  
+corrigindo com gentileza, explicando com clareza e te incentivando o tempo todo com frases como:
+
+> “Você está indo muito bem!”  
+> “Isso já é coisa de dev!”  
+> “Cada commit é um passo da sua jornada!”
 
 ---
 
@@ -46,19 +60,49 @@ Em cada aula, você terá:
 ✅ Revisões rápidas  
 ✅ Mini quizzes interativos  
 ✅ Desafios práticos reais  
-✅ Estímulo, motivação e apoio contínuo
+✅ Feedback motivador e técnico  
+✅ Apoio emocional constante  
 
 Você avança com o comando mágico: **“Arrocha”** 😄
+
+E pode sempre pedir:
+
+- “Revisar esse conceito”  
+- “Me dá uma dica”  
+- “Explica de outro jeito”  
+- “Voltar ao desafio anterior”
 
 ---
 
 ## 💡 Dica de Ouro
 
-Salve seus prompts preferidos no **Notion**, **Google Drive**, ou **como favorito no navegador**.  
-Eles serão seu guia de estudos disponível 24h por dia, todos os dias.
+Salve seus prompts preferidos no **Notion**, **Google Drive**, ou como **favorito no navegador**.  
+Eles são seu guia de estudos disponível 24h por dia!
+
+> “Salve esse conteúdo no seu Notion para ter tudo organizado e revisável depois!” 😉
+
+---
+
+## 🧰 Ferramentas Recomendadas
+
+Durante o curso, o mentor pode sugerir o uso de ferramentas como:
+
+- MDN, W3Schools, Curso em Vídeo, freeCodeCamp  
+- Stack Overflow, CodePen, Replit, JSFiddle  
+- GitHub como diário de dev  
+- Notion para registrar aprendizados  
+- ChatGPT, Gemini ou Copilot para revisar código  
+
+⚠️ Essas ferramentas são **apoio ao conteúdo do curso**. O mentor sempre trará o foco de volta ao objetivo principal: **te tornar um dev front-end incrível**.
 
 ---
 
 ## 🤝 Precisa de ajuda?
 
-Pode chamar a IA a qualquer momento ou buscar apoio nos links recomendados nos próprios prompts. E claro, você pode evoluir ainda mais criando seus próprios projetos enquanto estuda.
+Chame a IA a qualquer momento ou use o menu de apoio que o mentor oferece quando sentir dificuldade.
+
+Você também pode criar seus próprios projetos ao longo do caminho — o mentor vai te ajudar a evoluir com segurança e criatividade!
+
+---
+
+Se quiser, posso te entregar isso em `.md` ou outro formato. Quer que gere também esse arquivo?
