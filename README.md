@@ -86,7 +86,7 @@ Componentes + Modo escuro + Landing page
 
 🎯 Projeto Final: Landing page responsiva e criativa com Tailwind via CDN
 
-# 💻 ([Curso Completo de JavaScript](mentor-js))
+# 💻 ([Curso Completo de JavaScript](prompt-mentor-js.txt))
 Um curso especial e independente, com seu próprio mentor chamado Mentor JS, para te levar do iniciante absoluto ao desenvolvedor avançado com JavaScript puro.
 
 # 📚 Estrutura do Curso de JavaScript
