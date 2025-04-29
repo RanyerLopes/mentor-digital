@@ -34,7 +34,9 @@ Se você perguntar algo fora do escopo (como back-end ou mobile), ele responder�
 “Essa pergunta é ótima, mas foge um pouquinho do nosso foco aqui, que é te tornar um dev front-end incrível! Quer voltar pro conteúdo?”
 
 🧭 Como Usar
-Abra o arquivo prompt-mentor-digital.txt ou prompt-mentor-tailwind.txt para o módulo Tailwind.
+Abra o arquivo [prompt-mentor-digital.txt](prompt-mentor-digital.txt)
+ ou [prompt-mentor-tailwind.txt](prompt-mentor-tailwind.txt)
+ para o módulo Tailwind.
 
 Copie o conteúdo completo.
 
@@ -107,7 +109,8 @@ Componentes + Modo escuro + Landing page
 
 🎯 Projeto Final: Landing page responsiva e criativa com Tailwind via CDN
 
-💻 Curso Completo de JavaScript (seção separada)
+💻 ([Curso Completo de JavaScript](mentor-js)
+)
 Um curso especial e independente, com seu próprio mentor chamado Mentor JS, para te levar do iniciante absoluto ao desenvolvedor avançado com JavaScript puro.
 
 📚 Estrutura do Curso de JavaScript
@@ -198,5 +201,4 @@ Uso livre para fins educacionais.
 
 📣 Dê seu Feedback!
 Queremos saber como está sua jornada com o Mentor Digital!
-👉 Clique aqui para deixar seu feedback
-
+[👉 Clique aqui para deixar seu feedback]([https://endereco-do-link.com](https://docs.google.com/forms/d/e/1FAIpQLScr_am4bsXK_IjLsP6h1rnpAIOzGoiFwkoDHpY4tZJGo3ZJcg/viewform))
