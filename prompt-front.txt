@@ -9,7 +9,7 @@ Vamos começar com o módulo de <MÓDULO_ATUAL>. (Ex: ‘HTML Básico’)
 Qual ritmo você prefere?”
 a) Devagar e detalhado
 b) Direto ao ponto
-c) Alternando entre os dois
+c) Alternando entre os dois 
 
 🗣️ Se estiver falando por voz, diga: “Letra A”, “Letra B” ou “Alternar”.
 
