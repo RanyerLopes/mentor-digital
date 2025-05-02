@@ -1,203 +1,102 @@
-# 🤖 Mentor Digital – Guia de Estudos com IA para Programação Front-end
+📘 Guia de Uso do Mentor Digital
+Seja para aprender programação front-end, Tailwind CSS ou JavaScript, o Mentor Digital está aqui para te guiar com leveza, prática e motivação. Bora nessa jornada rumo à autonomia dev?
 
-Este projeto foi criado para ajudar iniciantes a aprender programação front-end e Git/GitHub de forma prática, divertida e acolhedora. Com prompts preparados especialmente para uso com ferramentas como o ChatGPT, Gemini, Claude e Copilot, você terá um mentor digital contínuo, disponível 24h por dia, para te acompanhar desde o zero até projetos prontos.
+✨ Etapa 1 – Acesse uma IA
+Abra uma ferramenta como:
 
----
+ChatGPT
 
-## 🎯 Objetivo
+Gemini
 
-Guiar qualquer pessoa — mesmo sem experiência prévia — pelos fundamentos de:
+Claude
 
-- Git e GitHub  
-- HTML  
-- CSS (incluindo pseudoclasses e pseudo-elementos)  
-- Tailwind CSS via CDN (módulo extra)
+Copilot
 
-Tudo com uma abordagem educativa, emocional, prática e adaptável ao ritmo do aluno.
+🧠 Etapa 2 – Escolha seu Prompt
+Você tem três opções incríveis de aprendizado guiado:
 
----
+1. Fundamentos do Front-end + Git/GitHub
+Use o arquivo prompt-mentor-digital.txt.
 
-## 🤝 Como o Mentor Digital Atua
+Esse prompt ativa um mentor digital que vai te acompanhar desde o zero até dominar:
 
-Seu mentor é empático, entusiasmado e técnico. Ele:
+Git e GitHub
 
-- Corrige com carinho  
-- Motiva com frases como:
-  - “Você tá mandando muito bem!”
-  - “Isso já é coisa de dev!”
-  - “Cada commit é um passo da sua jornada!”
-- Promove autonomia com:
-  - Revisões e desafios
-  - Checkpoints automáticos
-  - Gamificação com selos e progresso visual
-  - Comandos naturais por texto ou voz
+HTML
 
----
+CSS (incluindo pseudoclasses e pseudo-elementos)
 
-## 🧭 Como Usar
+📌 Com comandos por voz e texto, memória simulada de progresso, pausas com reentrada emocional e gamificação leve.
 
-1. Abra o arquivo `prompt-front.txt` (ou `prompt-mentor-tailwind.txt` para o módulo Tailwind).  
-2. Copie o conteúdo completo.  
-3. Acesse uma IA (ChatGPT, Gemini, Claude ou Copilot).  
-4. Cole o prompt e envie.  
+2. Tailwind CSS via CDN
+Use o arquivo prompt-mentor-tailwind.txt.
 
-No início do curso, você escolhe:
+Ideal para quem já conhece HTML e CSS e quer criar páginas lindas e responsivas com Tailwind.
 
-**“Qual ritmo você prefere agora?”**  
-a) Devagar e detalhado  
-b) Direto ao ponto  
-c) Alternado entre os dois  
+Do zero à landing page completa
 
-📱 O mentor adapta tudo se você estiver estudando pelo celular.
+Layouts com Grid, Flexbox, responsividade e modo escuro
 
----
+Tudo 100% via CDN e sem precisar instalar nada
 
-## 🆕 Novidades e Recursos Avançados
+3. JavaScript do Iniciante ao Avançado
+Use o arquivo prompt-mentor-js.txt.
 
-### 🧠 Memória Simulada e Progresso
-- O mentor lembra onde você parou.
-- Checkpoints visuais por módulo e barras de progresso (%).
+Ativa o Mentor JS, especializado em JavaScript puro. Ele te ensina:
 
-### 🗣️ Comandos de Voz Naturais
-- Use comandos como: “Letra A”, “Pausa”, “Partiu!”, “Celular”.
-- Ideal para estudo por áudio, celular ou acessibilidade.
+🟢 Iniciante: variáveis, funções, arrays, loops
 
-### 📘 Template de Aula Didática
-Cada aula segue este modelo:
-- 🎓 Aula: Título (com nível)
-- 📌 Objetivo da lição
-- 📘 Explicação didática
-- 🧪 Exemplo prático
-- 🎯 Desafio
-- ✅ Resumo final
-- ⏱️ Tempo estimado: 15 min
+🟣 Intermediário: DOM, eventos, localStorage, fetch
 
-### 📲 Totalmente Adaptado para Celular
-- Ferramentas recomendadas: CodePen, Replit, Spck Editor, Dcoder
-- Alternativa offline com `.html` no Bloco de Notas
+⚫ Avançado: ES6+, módulos, classes, closures
 
-### 🎯 Exercícios, Quizzes e Desafios
-- Quizzes com correção automática e feedback empático
-- Desafios por nível (Iniciante, Intermediário)
-- Diário de aprendizado simbólico
-- Opção “Quer que eu divida essa explicação em partes?”
+Projetos por nível:
 
-### 🧪 Debug Humano
-- O mentor explica **por que** tomou cada decisão no código.
-- Pergunte: “Por que você fez isso?” ou “Explica sua escolha”.
+Calculadora, To-do List, Buscador de API
 
-### 🔌 Integração com Plataformas Externas
-- Marca tarefas como concluídas: quizzes, desafios, módulos.
+SPA interativa, Quiz com lógica, Conversor com API
 
-### ⏰ Lembretes Inteligentes
-- Após 1 minuto ou 24h de pausa, o mentor retoma com leveza:
-  - “Tudo bem por aí? Quer continuar de onde parou?”
+💬 Etapa 3 – Cole o Prompt e Interaja
+Copie o conteúdo do arquivo escolhido
 
----
+Cole na IA e envie
 
-## 🧱 Estrutura do Curso
+Responda às perguntas iniciais sobre seu nível, ritmo e objetivos
 
-O conteúdo principal é dividido em 3 grandes módulos:
+🎓 O mentor assume o papel de professor particular, guiando com:
 
-1. Git e GitHub  
-2. HTML  
-3. CSS  
+“Você está indo muito bem!”
+“Isso já é coisa de dev!”
+“Cada commit é um passo da sua jornada!”
+“Você concluiu esse módulo! 🥋 Quer respirar um pouco ou seguimos? Diga: ‘Pausa’ ou ‘Seguir’.”
 
-### Cada módulo inclui:
-- Aulas progressivas com explicação e exemplo visual  
-- Revisões, quizzes e desafios práticos  
-- Checkpoints com selo simbólico (ex: “Iniciante Ninja 🥋”)  
-- Mapa de progresso (ex: `HTML → [■■■■■□□□] 60%`)  
-- Comandos naturais: “Pausa”, “Seguir”, “Vamos nessa!”
+🚀 Etapa 4 – Curta a Jornada
+Cada mentor oferece:
 
----
+✅ Explicações passo a passo
 
-## 💼 Projeto Final Integrador (Front-end)
+✅ Revisões rápidas e quizzes
 
-Ao final dos 3 módulos principais, o mentor propõe:
+✅ Desafios práticos por nível
 
-- Criar sua página pessoal com HTML e CSS  
-- Aplicar pseudoclasses e pseudo-elementos  
-- Tornar responsivo com layout próprio  
-- Publicar no GitHub Pages  
+✅ Feedback técnico e emocional
 
----
+✅ Estímulo à autonomia e criatividade
 
-## 🎨 Módulo Extra: Tailwind CSS via CDN
+✨ Avance com comandos como: “Arrocha”, “Vamos nessa!”, “Partiu!”
 
-Para quem já domina HTML e CSS básicos.
+📌 Peça a qualquer momento:
 
-### 4 Módulos:
-1. Introdução ao Tailwind + Ambiente  
-2. Classes utilitárias e estilização  
-3. Layout com Grid/Flex + Responsividade  
-4. Componentes + Modo escuro + Landing page
+“Revisar esse conceito”
 
-🎯 **Projeto Final**: Landing page responsiva e criativa com Tailwind via CDN
+“Me dá uma dica”
 
----
+“Explica de outro jeito”
 
-## 💻 Curso Independente de JavaScript
+“Voltar ao desafio anterior”
 
-📄 Veja o arquivo [`prompt-mentor-js.txt`](prompt-mentor-js.txt)
+💡 Dica de Ouro
+Salve seus prompts favoritos no Notion, Google Drive, ou como favoritos no navegador.
 
-Curso separado, com seu próprio mentor: **Mentor JS**  
-Foco: JavaScript do zero ao avançado.
+“Salve esse conteúdo no seu Notion para ter tudo organizado e revisável depois!” 😉
 
-### Estrutura:
-- 🟢 Iniciante: variáveis, tipos, funções, loops, arrays  
-- 🟣 Intermediário: DOM, eventos, localStorage, fetch, async/await  
-- ⚫ Avançado: ES6+, classes, módulos, closures, protótipos  
-
-🎯 Projetos por nível:
-- Iniciante: Calculadora ou checklist  
-- Intermediário: To-do list ou buscador de API  
-- Avançado: SPA, quiz interativo ou conversor com API  
-
----
-
-## 🧰 Ferramentas Recomendadas
-
-- **Referências**: MDN, W3Schools, Tailwind CSS  
-- **Vídeos**: Curso em Vídeo, Dev em Dobro, Rocketseat  
-- **Prática**: CodePen, JSFiddle, Replit, Tailwind Play  
-- **Organização**: Notion, Trello  
-- **IA de apoio**: ChatGPT, Gemini, Claude, Copilot  
-
-💡 Dica: “Salve esse conteúdo no seu Notion para ter tudo organizado!”
-
----
-
-## 🆘 Menu de Ajuda Inteligente
-
-Você pode dizer ou digitar a qualquer momento:
-
-- “Me dá uma dica”  
-- “Revisar esse conceito”  
-- “Voltar ao desafio anterior”  
-- “Explica de outro jeito”
-
----
-
-## 🧑‍🏫 Para Professores
-
-Pode ser usado como base para trilhas com IA focadas em:
-
-- Autonomia do aluno  
-- Prática constante  
-- Engajamento emocional  
-- Estímulo à curiosidade e autoavaliação
-
----
-
-## 📄 Licença
-
-Uso livre para fins educacionais.
-
----
-
-## 📣 Dê seu Feedback!
-
-Queremos saber como está sua jornada com o Mentor Digital!  
-👉 [Clique aqui para deixar seu feedback](https://docs.google.com/forms/d/e/1FAIpQLScr_am4bsXK_IjLsP6h1rnpAIOzGoiFwkoDHpY4tZJGo3ZJcg/viewform)
-"""
