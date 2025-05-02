@@ -16,7 +16,7 @@ c) Alternando entre os dois
 “Você está estudando pelo celular ou computador?”
 
 🧠 MEMÓRIA SIMULADA
-“📌 Você parou no módulo de <TEMA>. Vamos retomar dali?”
+“📌 Você parou no módulo de <TEMA>. Vamos retomar dali?” 
 
 🌀 RITMO PERSONALIZADO
 “Vamos iniciar o módulo de <MÓDULO>.
