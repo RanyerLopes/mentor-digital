@@ -1,108 +1,105 @@
-### 📘 **Guia de Uso do Mentor Digital 
+📘 Guia de Uso do Mentor Digital
+Seja para aprender programação front-end, Tailwind CSS, JavaScript ou React, o Mentor Digital está aqui para te guiar com leveza, prática e motivação. Bora nessa jornada rumo à autonomia dev?
 
-Seja para aprender **programação front-end** ou **Tailwind CSS**, o **Mentor Digital** está aqui pra te guiar com leveza, prática e motivação. Bora nessa jornada rumo à autonomia dev?
-
----
-
-## ✨ Etapa 1 – Acesse uma IA
-
+✨ Etapa 1 – Acesse uma IA
 Abra uma ferramenta como:
 
-- [ChatGPT](https://chat.openai.com)
-- [Gemini](https://gemini.google.com)
-- [Claude](https://claude.ai)
+ChatGPT
 
----
+Gemini
 
-## 🧠 Etapa 2 – Escolha seu Prompt
+Claude
 
-Você tem duas opções incríveis de aprendizado guiado:
+Copilot
 
-### 1. **Fundamentos do Front-end + Git/GitHub**  
-Use o arquivo `prompt-mentor-digital.txt`.
+🧠 Etapa 2 – Escolha seu Prompt
+Você tem quatro opções incríveis de aprendizado guiado:
 
-Esse prompt ativa um **mentor digital especializado**, que vai te acompanhar desde o zero absoluto até dominar:
+1. Fundamentos do Front-end + Git/GitHub
+Use o arquivo prompt-mentor-digital.txt.
+Esse prompt ativa um mentor digital que vai te acompanhar desde o zero até dominar:
 
-- Git e GitHub  
-- HTML  
-- CSS (incluindo pseudoclasses e pseudo-elementos)  
-- JavaScript  
+Git e GitHub
 
-Ele usa uma abordagem **empática, divertida, prática e personalizada**, adaptando o ritmo ao seu estilo e celebrando suas conquistas.
+HTML
 
-### 2. **Tailwind CSS via CDN**  
-Use o arquivo `prompt-mentor-tailwind.txt`.
+CSS (incluindo pseudoclasses e pseudo-elementos)
 
-Esse mentor te guia desde o básico até criar páginas responsivas e estilosas com Tailwind CSS, mesmo se for sua primeira vez com programação ou com frameworks.
+📌 Com comandos por voz e texto, memória simulada de progresso, pausas com reentrada emocional e gamificação leve.
 
----
+2. Tailwind CSS via CDN
+Use o arquivo prompt-mentor-tailwind.txt.
+Ideal para quem já conhece HTML e CSS e quer criar páginas lindas e responsivas com Tailwind.
 
-## 💬 Etapa 3 – Cole o Prompt e Interaja
+Do zero à landing page completa
 
-- Copie todo o conteúdo do arquivo escolhido.
-- Cole na IA e envie.
-- Responda às perguntas iniciais sobre seu **nível**, **ritmo** e **objetivos**.
+Layouts com Grid, Flexbox, responsividade e modo escuro
 
-🎓 O Mentor vai assumir o papel de professor particular:  
-corrigindo com gentileza, explicando com clareza e te incentivando o tempo todo com frases como:
+Tudo 100% via CDN e sem precisar instalar nada
 
-> “Você está indo muito bem!”  
-> “Isso já é coisa de dev!”  
-> “Cada commit é um passo da sua jornada!”
+3. JavaScript do Iniciante ao Avançado
+Use o arquivo prompt-mentor-js.txt.
+Ativa o Mentor JS, especializado em JavaScript puro. Ele te ensina:
 
----
+🟢 Iniciante: variáveis, funções, arrays, loops
+🟣 Intermediário: DOM, eventos, localStorage, fetch
+⚫ Avançado: ES6+, módulos, classes, closures
 
-## 🚀 Etapa 4 – Curta a Jornada
+Projetos por nível:
 
-Em cada aula, você terá:
+Calculadora, To-do List, Buscador de API
 
-✅ Explicações passo a passo  
-✅ Revisões rápidas  
-✅ Mini quizzes interativos  
-✅ Desafios práticos reais  
-✅ Feedback motivador e técnico  
-✅ Apoio emocional constante  
+SPA interativa, Quiz com lógica, Conversor com API
 
-Você avança com o comando mágico: **“Arrocha”** 😄
+4. React com Mentor Visual e Prático
+Use o arquivo prompt-mentor-react.txt.
+Ativa o Mentor React: um guia carismático, técnico e visual para você aprender React com foco em prática, ritmo personalizado e reforço positivo.
 
-E pode sempre pedir:
+Baseado na trilha do roadmap.sh/react
 
-- “Revisar esse conceito”  
-- “Me dá uma dica”  
-- “Explica de outro jeito”  
-- “Voltar ao desafio anterior”
+Componentes, props, state, hooks (como useEffect), roteamento
 
----
+Desafios por nível + mini-projetos reais
 
-## 💡 Dica de Ouro
+Com analogias visuais, quizzes inteligentes, e resumo a cada 3 aulas
 
-Salve seus prompts preferidos no **Notion**, **Google Drive**, ou como **favorito no navegador**.  
-Eles são seu guia de estudos disponível 24h por dia!
+Suporte emocional e revisão guiada com “modo debug assistido”
 
-> “Salve esse conteúdo no seu Notion para ter tudo organizado e revisável depois!” 😉
+Estímulo constante à autonomia, criatividade e prática
 
----
+💬 Etapa 3 – Cole o Prompt e Interaja
+Copie o conteúdo do arquivo escolhido
 
-## 🧰 Ferramentas Recomendadas
+Cole na IA e envie
 
-Durante o curso, o mentor pode sugerir o uso de ferramentas como:
+Responda às perguntas iniciais sobre seu nível, ritmo e objetivos
 
-- MDN, W3Schools, Curso em Vídeo, freeCodeCamp  
-- Stack Overflow, CodePen, Replit, JSFiddle  
-- GitHub como diário de dev  
-- Notion para registrar aprendizados  
-- ChatGPT, Gemini ou Copilot para revisar código  
+🎓 O mentor assume o papel de professor particular, guiando com:
 
-⚠️ Essas ferramentas são **apoio ao conteúdo do curso**. O mentor sempre trará o foco de volta ao objetivo principal: **te tornar um dev front-end incrível**.
+“Você está indo muito bem!”
+“Isso já é coisa de dev!”
+“Cada commit é um passo da sua jornada!”
+“Você concluiu esse módulo! 🥋 Quer respirar um pouco ou seguimos? Diga: ‘Pausa’ ou ‘Seguir’.”
 
----
+🚀 Etapa 4 – Curta a Jornada
+Cada mentor oferece:
 
-## 🤝 Precisa de ajuda?
+✅ Explicações passo a passo
+✅ Revisões rápidas e quizzes
+✅ Desafios práticos por nível
+✅ Feedback técnico e emocional
+✅ Estímulo à autonomia e criatividade
 
-Chame a IA a qualquer momento ou use o menu de apoio que o mentor oferece quando sentir dificuldade.
+✨ Avance com comandos como:
+“Arrocha”, “Vamos nessa!”, “Partiu!”
 
-Você também pode criar seus próprios projetos ao longo do caminho — o mentor vai te ajudar a evoluir com segurança e criatividade!
+📌 Peça a qualquer momento:
+“Revisar esse conceito”
+“Me dá uma dica”
+“Explica de outro jeito”
+“Voltar ao desafio anterior”
 
----
+💡 Dica de Ouro
+Salve seus prompts favoritos no Notion, Google Drive, ou como favoritos no navegador.
 
-Se quiser, posso te entregar isso em `.md` ou outro formato. Quer que gere também esse arquivo?
+“Salve esse conteúdo no seu Notion para ter tudo organizado e revisável depois!” 😉
