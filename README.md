@@ -14,6 +14,8 @@ Tailwind CSS via CDN (módulo extra)
 
 React (curso completo com mentor visual)
 
+Node.js (curso completo com mentor descontraído e prático)
+
 Tudo com uma abordagem educativa, emocional, prática e adaptável ao ritmo do aluno.
 
 🤝 Como o Mentor Digital Atua
@@ -50,6 +52,8 @@ Abra o arquivo correspondente ao módulo desejado:
 
 [`prompt-mentor-react.txt`](prompt-mentor-react.txt)
 
+[`prompt-mentor-node.txt`](prompt-mentor-node.txt)
+
 Copie o conteúdo completo.
 
 Acesse uma IA (ChatGPT, Gemini, Claude ou Copilot).
@@ -57,7 +61,6 @@ Acesse uma IA (ChatGPT, Gemini, Claude ou Copilot).
 Cole o prompt e envie.
 
 No início do curso, você escolhe:
-
 “Qual ritmo você prefere agora?”
 a) Devagar e detalhado
 b) Direto ao ponto
@@ -95,7 +98,6 @@ Cada aula segue este modelo:
 
 📲 Totalmente Adaptado para Celular
 Ferramentas recomendadas: CodePen, Replit, Spck Editor, Dcoder
-
 Alternativa offline com .html no Bloco de Notas
 
 🎯 Exercícios, Quizzes e Desafios
@@ -109,7 +111,6 @@ Opção “Quer que eu divida essa explicação em partes?”
 
 🧪 Debug Humano
 O mentor explica por que tomou cada decisão no código.
-
 Pergunte: “Por que você fez isso?” ou “Explica sua escolha”.
 
 🔌 Integração com Plataformas Externas
@@ -117,7 +118,6 @@ Marca tarefas como concluídas: quizzes, desafios, módulos.
 
 ⏰ Lembretes Inteligentes
 Após 1 minuto ou 24h de pausa, o mentor retoma com leveza:
-
 “Tudo bem por aí? Quer continuar de onde parou?”
 
 🧱 Estrutura do Curso
@@ -130,6 +130,7 @@ HTML
 CSS
 
 Cada módulo inclui:
+
 Aulas progressivas com explicação e exemplo visual
 
 Revisões, quizzes e desafios práticos
@@ -155,6 +156,7 @@ Publicar no GitHub Pages
 Para quem já domina HTML e CSS básicos.
 
 4 Módulos:
+
 Introdução ao Tailwind + Ambiente
 
 Classes utilitárias e estilização
@@ -173,9 +175,7 @@ Foco: JavaScript do zero ao avançado.
 
 Estrutura:
 🟢 Iniciante: variáveis, tipos, funções, loops, arrays
-
 🟣 Intermediário: DOM, eventos, localStorage, fetch, async/await
-
 ⚫ Avançado: ES6+, classes, módulos, closures, protótipos
 
 🎯 Projetos por nível:
@@ -192,6 +192,7 @@ Avançado: SPA, quiz interativo ou conversor com API
 Ativa o Mentor React, um guia visual, técnico e acolhedor, com foco em prática, motivação e ritmo personalizado.
 
 Estrutura:
+
 Introdução com analogias visuais e roadmap guiado
 
 Componentes, props, JSX
@@ -212,15 +213,46 @@ Encerramento com projeto final e publicação
 
 🎯 Projeto Final: SPA interativa com consumo de API + responsividade
 
+🟩 Curso de Node.js com Mentor Descontraído e Prático
+📄 Veja o arquivo prompt-mentor-node.txt
+
+Ativa o Mentor Node.js, um mentor carismático, descontraído e prático, com foco total no back-end e APIs.
+
+O que você vai aprender:
+
+Fundamentos do Node.js e terminal
+
+Criação de APIs com Express
+
+Conexão com banco de dados (ex: MongoDB)
+
+Middleware, validações e autenticação
+
+Projeto final: API de tarefas com banco de dados
+
+Recursos incluídos:
+
+Explicações com metáforas visuais (“O servidor é como um restaurante”)
+
+Código comentado para iniciantes
+
+Desafios práticos em 3 níveis
+
+Quiz com feedback empático
+
+Comandos naturais: “Tô confuso”, “Me ajuda a debugar”, “Explica de outro jeito”
+
+Ferramentas recomendadas: Postman, nodemon, MongoDB Compass
+
+Reconhecimento simbólico (“Selo Node Ninja 🥷”)
+
+Diário de aprendizado integrado
+
 🧰 Ferramentas Recomendadas
 Referências: MDN, W3Schools, Tailwind CSS, React Docs
-
 Vídeos: Curso em Vídeo, Dev em Dobro, Rocketseat
-
 Prática: CodePen, JSFiddle, Replit, Tailwind Play
-
 Organização: Notion, Trello
-
 IA de apoio: ChatGPT, Gemini, Claude, Copilot
 
 💡 Dica: “Salve esse conteúdo no seu Notion para ter tudo organizado!”
@@ -253,3 +285,5 @@ Uso livre para fins educacionais.
 📣 Dê seu Feedback!
 Queremos saber como está sua jornada com o Mentor Digital!
 [`👉 Clique aqui para deixar seu feedback`](https://docs.google.com/forms/d/e/1FAIpQLScr_am4bsXK_IjLsP6h1rnpAIOzGoiFwkoDHpY4tZJGo3ZJcg/viewform?usp=header)
+
+
