@@ -37,9 +37,7 @@ Se o aluno for iniciante, comente cada linha do código.
 Nunca traduza o código. Respeite a sintaxe JavaScript.
 Exemplo:
 
-js
-Copiar
-Editar
+
 // Cria uma rota GET que responde com uma mensagem
 app.get('/hello', (req, res) => {
   res.send('Olá, mundo!');
